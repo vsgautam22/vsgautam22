@@ -22,7 +22,7 @@ I build things at the intersection of hardware and software — from RTL all the
 |---|---|---|---|
 | [crc-engine](https://github.com/vsgautam22/crc-engine) | RTL / VLSI | Verilog · SymbiYosys · OpenLane | 19/19 tests · Formal verification · SKY130A GDS tape-out · 0 DRC violations |
 | [Kronos-32 OOO Engine](https://github.com/vsgautam22) | Computer Architecture | Verilog · Icarus · WSL2 | Tomasulo's algorithm · Custom ISA · Out-of-order execution |
-| [RISC-V RV32I Core](https://github.com/vsgautam22) | RTL Design | Verilog | RV32I ISA · 8 RTL modules · Full pipeline |
+| [RISC-V RV32I Core](https://github.com/vsgautam22/riscv-core) | RTL Design | Verilog | RV32I ISA · 8 RTL modules · Full pipeline |
 | [ArXiv Alpha](https://github.com/vsgautam22/arxiv-alpha) | Full-Stack AI | React · FastAPI · pgvector · Ollama | PDF ingestion · RAG pipeline · Local LLM |
 | [Drug-Discovery-GenAI](https://github.com/vsgautam22/Drug-Discovery-GenAI) | ML / Bioinformatics | Python · RDKit · Scikit-learn | Generative SMILES · RF toxicity prediction |
 
