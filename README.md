@@ -14,16 +14,6 @@ I build things at the intersection of hardware and software — from RTL all the
 
 ---
 
-## 🏭 Internship — IIT Madras Research Park
-
-**FPGA Engineer Intern @ ISMO Bio-Photonics**
-
-Worked on real measurement instrumentation on FPGA hardware:
-- Digital **Lock-in Amplifier** on FPGA
-- **Class-E ICP Generator** design and implementation
-- Advantech relay module integration for automated control
-
----
 
 ## 📌 Featured Projects
 
