@@ -10,7 +10,7 @@ I build things at the intersection of hardware and software — from RTL all the
 ### VLSI Design Engineer · FPGA Developer · Verification Engineer
 
 **B.E. Electronics Engineering (VLSI Design & Technology)**  
-Chennai Institute of Technology · Pre-Final Year · Chennai, India
+Chennai, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gautam--suresh-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gautam-suresh-89b637290/)
 [![GitHub](https://img.shields.io/badge/GitHub-vsgautam22-181717?style=flat&logo=github)](https://github.com/vsgautam22)
