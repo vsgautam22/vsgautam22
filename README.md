@@ -115,4 +115,4 @@ Chennai Institute of Technology (Autonomous) · Anna University
 
 ---
 
-**Chennai, India · Open to internships and collaborations in VLSI, FPGA, AI Domain, and Embedded Systems**
+**Chennai, India · Open to internships, opportunities and collaborations in VLSI, FPGA, AI Domain, and Embedded Systems**
