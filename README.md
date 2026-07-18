@@ -24,7 +24,7 @@ Chennai, India
 
 I design hardware from RTL to silicon — FPGA-based systems, ASIC physical design flows, and Python-driven verification environments. My work spans the full digital design stack: writing synthesizable HDL, running formal verification, taping out on open-source PDKs, and building coverage-driven testbenches for processor cores.
 
-Currently in my pre-final year, building a hardware + software portfolio ahead of final-year placements. Targeting VLSI/FPGA/verification roles.
+Currently building a hardware + software ideas ahead, targeting VLSI/FPGA/verification roles.
 
 ---
 
