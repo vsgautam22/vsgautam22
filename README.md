@@ -115,8 +115,4 @@ Chennai Institute of Technology (Autonomous) · Anna University
 
 ---
 
-<div align="center">
-<sub>RTL → Synthesis → Place & Route → Tape-out · From gates to cloud</sub>
-</div>
-
-<sub>Chennai, India · Open to internships and collaborations in VLSI, FPGA, and embedded systems</sub>
+**Chennai, India · Open to internships and collaborations in VLSI, FPGA, AI Domain, and Embedded Systems**
