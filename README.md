@@ -102,7 +102,7 @@ Dev         : Python 3.13  C++  JavaScript  Git  Docker  WSL2
 ## Education
 
 **B.E. Electronics Engineering (VLSI Design & Technology)**  
-Chennai Institute of Technology (Autonomous) · Anna University  
+Chennai Institute of Technology (Autonomous) 
 2023 – 2027 · Chennai, India
 
 ---
