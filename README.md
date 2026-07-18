@@ -1,6 +1,6 @@
 # Hi, I'm Gautam Suresh 👋
 
-**Electronics Engineering student** @ Chennai Institute of Technology · Pre-final year · Specialization in **VLSI Design & Technology**
+**Electronics Engineering student** - Specialization in **VLSI Design & Technology** @ Chennai Institute of Technology · Pre-final year · 
 
 I build things at the intersection of hardware and software — from RTL all the way to tape-out, and from backend APIs to AI-powered full-stack apps.
 
